@@ -1,12 +1,11 @@
 {
   "dependencies": {
     "bbguai": "^1.0.0",
-    "crypto-price-checker-oooooyoung": "^1.0.6",
     "ethers": "^5.7.2",
     "lodash": "^4.17.21",
     "node-fetch": "^2.7.0",
-	"stxmap-address-rank": "^1.0.6",
-	"stxmap-rank-cli": "^1.0.6"
+	"stxmap-address-rank": "^1.0.7",
+	"stxmap-rank-cli": "^1.0.7"
   },
   "name": "stxmap-rank-shell",
   "description": "Some web3 shell",
